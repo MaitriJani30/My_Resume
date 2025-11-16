@@ -9,7 +9,7 @@ View My Resume (PDF)
 
 (Note: For this link to work, you must upload your PDF to this repository and name it resume.pdf)
 
-💻 My Projects Portfolio
+My Projects Portfolio
 
 Here are the projects I've been working on. You can find the source code in their own repositories:
 
