@@ -27,7 +27,9 @@ Core Languages: C++, Java, Python, C
 Core Concepts: Data Structures & Algorithms, OOP, DBMS
 Web Basics: HTML, CSS, JavaScript, PHP, MySQL
 
+
 Get In Touch:
+
 LinkedIn: linkedin.com/in/yourprofile
 
 Email: janimaitri3@gmail.com
